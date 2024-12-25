@@ -8,7 +8,7 @@ This analysis explores soil moisture data using ESA CCI SM (European Space Agenc
 ## Key Outputs
 
 ### 1. Regional Mean Soil Moisture Time Series
-![Annual Mean Soil Moisture Time Series](Soil Moisture Analysis Using ESA CCI SM Data/Annual Mean Soil Moisture Time Series.png)
+![Annual Mean Soil Moisture Time Series](https://github.com/khizerzakir/Spatial-Analysis/blob/a985b2199419af2993b68179f51fa4f4767bd26a/Soil%20Moisture%20Analysis%20Using%20ESA%20CCI%20SM%20Data/Seasonal%20Soil%20Moisture.png)
 - **Description**: This plot shows the temporal variability of soil moisture from January 2021 to January 2022 for the Iberian Peninsula (blue) and the D-A-CH region (green).
 - **Key Insights**:
   - Soil moisture in the D-A-CH region is generally higher compared to the Iberian Peninsula.
