@@ -16,7 +16,6 @@ This analysis explores soil moisture data using ESA CCI SM (European Space Agenc
   - Significant fluctuations in soil moisture are observed, reflecting seasonal variations and climatic influences.
 
 ### 2. Seasonal Soil Moisture Content Maps
-Soil Moisture Analysis Using ESA CCI SM Data/Seasonal Soil Moisture.png
 ![Seasonal Soil Moisture](https://github.com/khizerzakir/Spatial-Analysis/blob/a985b2199419af2993b68179f51fa4f4767bd26a/Soil%20Moisture%20Analysis%20Using%20ESA%20CCI%20SM%20Data/Seasonal%20Soil%20Moisture.png)
 - **Description**: These maps provide a global view of soil moisture content for each season (Spring, Summer, Autumn, Winter) in 2021.
 - **Key Insights**:
