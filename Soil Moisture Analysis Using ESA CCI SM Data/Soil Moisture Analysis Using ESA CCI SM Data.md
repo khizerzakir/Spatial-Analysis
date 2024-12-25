@@ -24,7 +24,8 @@ Soil Moisture Analysis Using ESA CCI SM Data/Seasonal Soil Moisture.png
   - Seasonal variations are prominent, particularly in temperate and arid zones.
 
 ### 3. Annual Mean Soil Moisture Maps for Iberia and D-A-CH
-![Annual Mean Soil Moisture](Soil Moisture Analysis Using ESA CCI SM Data/Annual Mean Soil Moisture.png)
+
+![Annual Mean Soil Moisture](https://github.com/khizerzakir/Spatial-Analysis/blob/d9b3bfe7a253919098a4d502c01bc0cf8fbd329c/Soil%20Moisture%20Analysis%20Using%20ESA%20CCI%20SM%20Data/Annual%20Mean%20Soil%20Moisture.png)
 - **Description**: Annual mean soil moisture maps for 2021 focus on Iberia and the D-A-CH regions.
 - **Key Insights**:
   - The Iberian Peninsula exhibits lower soil moisture overall, with notable dryness in southern areas.
